@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ♤Ꭺᴋᴀꜱʜ♤
+ *
+ */
+module HelloWorld {
+}
